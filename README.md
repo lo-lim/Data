@@ -1,11 +1,5 @@
 # ITB Team Project
-**Hospital Opening & Closing Classification Prediction project**
-> **1) 데이터전처리**  
-> **2) 머신러닝 모델 생성**   
-> **3) test 데이터 예측**  
-> **4) 파생변수 추가**  
-> **5) 인사이트 도출**   
-
+**Hospital Opening & Closing Classification Prediction project**  
 
 ![0001](https://user-images.githubusercontent.com/111096487/209655011-95373fae-5566-47db-a0c7-129ef6d28f9a.jpg)
 ![0002](https://user-images.githubusercontent.com/111096487/209655017-863aa1a9-508f-46a1-8d83-1116fadcb4e8.jpg)
